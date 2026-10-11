@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How often are pressure transmitters calibrated?",
+    "expected_source": "sensor_maintenance.md"
+  },
+  {
+    "question": "How long is raw one-second data kept before it is downsampled?",
+    "expected_source": "data_logging.md"
+  },
+  {
+    "question": "What does a BAD quality flag mean and why does it matter?",
+    "expected_source": "data_logging.md"
+  },
+  {
+    "question": "What happens if an alarm is not acknowledged in time?",
+    "expected_source": "alarm_handling.md"
+  },
+  {
+    "question": "Why is a frequently firing alarm treated as a defect?",
+    "expected_source": "alarm_handling.md"
+  },
+  {
+    "question": "Na koliko radnih sati se izvodi planirano odrzavanje pumpi?",
+    "expected_source": "odrzavanje_opreme.md"
+  },
+  {
+    "question": "What must a corrective maintenance work order contain?",
+    "expected_source": "odrzavanje_opreme.md"
+  }
+]

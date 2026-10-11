@@ -1,0 +1,28 @@
+# Licna objasnjenja — ne objavljuju se
+OBJASNJENJE.md
+
+# Stari demo dokumenti (materijal o prijavi) — zamenjeni, ne objavljuju se
+data/knowledge/pravila_prijave.md
+data/knowledge/winter_school_faq.md
+data/knowledge/project_guidelines.md
+data/knowledge/lab_rules.md
+
+# Okruzenje i kes
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+hf_cache/
+
+# Generisani indeks — pravi se sa: python -m src.ingest
+data/index/
+
+# Tajne
+.env
+*.key
+api_key*
+
+.DS_Store
+Thumbs.db
